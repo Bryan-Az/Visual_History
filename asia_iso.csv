@@ -1,0 +1,54 @@
+﻿Territory,ISO-3166-2,ISO-3166-3,ccTLD
+,(2 Letter Country Code),(3 Letter Country Code),(Country Domain Extension)
+Afghanistan ,AF,AFG,.af
+Armenia ,AM,ARM,.am
+Azerbaijan ,AZ,AZE,.az
+Bahrain ,BH,BHR,.bh
+Bangladesh ,BD,BGD,.bd
+Bhutan ,BT,BTN,.bt
+Brunei ,BN,BRN,.bn
+Cambodia ,KH,KHM,.kh
+China ,CN,CHN,.cn
+Christmas Island ,CX,CXR,.cx
+Cocos Islands ,CC,CCK,.cc
+Diego Garcia ,IO,IOT,.io
+Georgia ,GE,GEO,.ge
+Hong Kong ,HK,HKG,.hk
+India ,IN,IND,.in
+Indonesia ,ID,IDN,.id
+Iran ,IR,IRN,.ir
+Iraq ,IQ,IRQ,.iq
+Israel ,IL,ISR,.il
+Japan ,JP,JPN,.jp
+Jordan ,JO,JOR,.jo
+Kazakhstan ,KZ,KAZ,.kz
+Kuwait ,KW,KWT,.kw
+Kyrgyzstan ,KG,KGZ,.kg
+Laos ,LA,LAO,.la
+Lebanon ,LB,LBN,.lb
+Macau ,MO,MAC,.mo
+Malaysia ,MY,MYS,.my
+Maldives ,MV,MDV,.mv
+Mongolia ,MN,MNG,.mn
+Myanmar ,MM,MMR,.mm
+Nepal ,NP,NPL,.np
+North Korea ,KP,PRK,.kp
+Oman ,OM,OMN,.om
+Pakistan ,PK,PAK,.pk
+Palestine ,PS,PSE,.ps
+Philippines ,PH,PHL,.ph
+Qatar ,QA,QAT,.qa
+Saudi Arabia ,SA,SAU,.sa
+Singapore ,SG,SGP,.sg
+South Korea ,KR,KOR,.kr
+Sri Lanka ,LK,LKA,.lk
+Syria ,SY,SYR,.sy
+Taiwan ,TW,TWN,.tw
+Tajikistan ,TJ,TJK,.tj
+Thailand ,TH,THA,.th
+Turkey ,TR,TUR,.tr
+Turkmenistan ,TM,TKM,.tm
+United Arab Emirates ,AE,ARE,.ae
+Uzbekistan ,UZ,UZB,.uz
+Vietnam ,VN,VNM,.vn
+Yemen ,YE,YEM,.ye
